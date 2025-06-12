@@ -1,0 +1,26 @@
+{
+    "auto_py_to_exe_settings": {
+        "script_location": "run.py",
+        "one_file": true,
+        "console": true,
+        "icon": null,
+        "additional_files": [
+            {
+                "src": "nowy skrypt wersja 2.py",
+                "dest": "."
+            },
+            {
+                "src": "C:/Users/patrykalbert/AppData/Local/Programs/Python/Python311/Lib/site-packages/streamlit-1.32.0.dist-info",
+                "dest": "streamlit-1.32.0.dist-info"
+            }
+        ],
+        "hidden_imports": [
+            "streamlit"
+        ],
+        "output_directory": "output",
+        "advanced": {},
+        "manual_command": "",
+        "additional_options": [],
+        "use_upx": false
+    }
+}

@@ -1,0 +1,34 @@
+# Ignoruj plik systemowy macOS, niepotrzebny w repozytorium
+.DS_Store
+
+# Ignoruj katalog środowiska wirtualnego Pythona
+venv/
+env/
+
+# Ignoruj katalog z plikami cache Pythona
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignoruj pliki kompilacji
+*.spec
+build/
+dist/
+
+# Ignoruj pliki środowiska IDE
+.idea/
+.vscode/
+*.swp
+
+# Ignoruj pliki logów
+*.log
+
+# Ignoruj pliki tymczasowe
+*.tmp
+*.bak
+*.swp
+*~
+
+# Ignoruj pliki konfiguracyjne lokalne
+.env
+.env.local
