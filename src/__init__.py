@@ -1,0 +1,3 @@
+"""
+Główny pakiet aplikacji
+""" 

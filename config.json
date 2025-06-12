@@ -1,0 +1,14 @@
+{
+    "last_directory": "/Users/patrykalbert/Desktop/GIT/przeszukiwarka PDF",
+    "index_directory": "",
+    "max_results": 100,
+    "min_score": 0.1,
+    "context_size": 50,
+    "window_width": 800,
+    "window_height": 600,
+    "theme": "default",
+    "index_batch_size": 100,
+    "auto_index": true,
+    "language": "english",
+    "stop_words": true
+}
